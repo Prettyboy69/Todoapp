@@ -1,0 +1,9 @@
+.header {
+  background: yellow;
+  text-align: center;
+  width: 100%;
+  font-weight: bold;
+  box-shadow: 10em;
+  margin: 0 10px;
+  padding: 10px;
+}

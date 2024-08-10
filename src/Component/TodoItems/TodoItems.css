@@ -1,0 +1,22 @@
+.item {
+  width: 500px;
+  font-size: 20px;
+  margin: 0 auto;
+  color: #353935;
+}
+.itemName {
+  font-weight: bold;
+  padding: 20px;
+}
+.line {
+  border: 1px solid #f4f4f4;
+}
+.button {
+  float: right;
+  border-radius: 8px;
+  border: none;
+  margin-top: -5px;
+}
+.complet {
+  text-decoration: line-through;
+}
